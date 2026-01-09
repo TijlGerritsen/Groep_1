@@ -56,7 +56,6 @@ project:
            - file: Content/Labs/Warmtecapaciteit.ipynb
            - file: Content/Labs/koelbuis.ipynb
            - file: Content/Labs/waxine.ipynb
-           - file: Content/Labs/tempmetingen.csv
 
        - title: Druk
          children:
